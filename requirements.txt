@@ -1,0 +1,12 @@
+streamlit               # If you plan to build a UI
+openpyxl                # For exporting to .xlsx instead of .csv
+matplotlib              # For visualizing skill/resume gaps
+requests
+pandas
+scikit-learn
+sentence-transformers
+rake-nltk
+rapidfuzz
+nltk
+pyyaml
+python-docx

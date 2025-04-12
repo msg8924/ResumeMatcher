@@ -1,0 +1,31 @@
+jsearch:
+  api_key: "0e5355b710msh91ba008289b7be7p10db3bjsnb4e9987d2a8d"
+  api_host: "jsearch.p.rapidapi.com"
+  api_url: "https://jsearch.p.rapidapi.com/search"
+
+adzuna:
+  app_id: "2035eef2"
+  app_key: "ddc63d14744349780c5d44eb7060110a"
+  country: "us"
+  api_url: "https://api.adzuna.com/v1/api/jobs/us/search/1"
+
+resume:
+  path: "ManAvinashGillResume.docx"
+
+search_defaults:
+  job_titles:
+    - Technical Product Manager
+    - Technical Program Manager
+    - Technical Project Manager
+    - Product Manager
+    - Project Manager
+    - Program Manager
+    - Technical Delivery Manager
+    - Data Analyst
+    - Delivery Manager
+    - TPM
+    - PM
+  location: "New York"
+  results: 40
+  fuzzy_match_threshold: 85
+  filter_jobs_threshold: 0.30
