@@ -4,8 +4,8 @@ jsearch:
   api_url: "https://jsearch.p.rapidapi.com/search"
 
 adzuna:
-  app_id: "2035eef2"
-  app_key: "ddc63d14744349780c5d44eb7060110a"
+  app_id: "FILLINYOUROWNID"
+  app_key: "FILLINYOUROWNKEY"
   country: "us"
   api_url: "https://api.adzuna.com/v1/api/jobs/us/search/1"
 
